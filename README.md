@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marioprasetyo
-- 👀 I’m interested in Content Making
+- 👀 I’m interested in Content Creator
 - 🌱 I’m currently learning Kotlin Android Developer
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me, you can find me in Instagram
