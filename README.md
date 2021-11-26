@@ -5,7 +5,7 @@
 ## I'm a Content Creator and Information Technology Student
 
 - 👨‍💻 I’m currently working on making a content like Youtube Videos, Graphic Design, and also development technologies like JavaScript, CSS etc.
-- 📚 I’m currently learning everything about Andrioid Developer 😅
+- 📚 I’m currently learning everything about Android Developer 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love watching Anime & Film.
 
